@@ -1,0 +1,1 @@
+python demo.py --config config/vox-256.yaml --checkpoint checkpoints/vox.pth.tar --source_image ./source.png --driving_video ./driving.mp4 --find_best_frame
